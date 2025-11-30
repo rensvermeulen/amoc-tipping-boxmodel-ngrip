@@ -98,8 +98,8 @@ supporting analysis, publication, or presentation.
 
 ## Applications
 
--   Paleoclimate modeling\
--   Early-warning indicators and tipping points\
--   Nonlinear dynamical systems\
--   Excitable media applications\
+-   Paleoclimate modeling
+-   Early-warning indicators and tipping points
+-   Nonlinear dynamical systems
+-   Excitable media applications
 -   Research in climate dynamics
