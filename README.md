@@ -1,4 +1,4 @@
-# AMOC Tipping Analysis Using FitzHugh–Nagumo Models and NGRIP Ice-Core Data
+# AMOC Tipping Analysis Using Box Models and NGRIP Ice-Core Data
 
 This project explores **FitzHugh--Nagumo--type dynamical systems** and
 applies them to paleoclimate data from the **NGRIP δ¹⁸O ice-core
